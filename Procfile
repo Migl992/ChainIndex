@@ -1,1 +1,1 @@
-web: voila blockchain_dashboard.ipynb --port=$PORT --no-browser --strip_sources=False
+web: voila BlockchainDashboard.ipynb --port=$PORT --no-browser --strip_sources=False
